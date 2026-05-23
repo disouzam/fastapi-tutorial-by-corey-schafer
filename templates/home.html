@@ -2,7 +2,13 @@
 <html>
 
 <head>
-    <title>FastAPI Blog</title>
+    <title>
+        {% if title %}
+        FastAPI Blog - {{ title }}
+        {% else %}
+        FastAPI Blog
+        {% endif %}
+    </title>
 </head>
 
 <body>
