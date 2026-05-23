@@ -25,6 +25,17 @@ Repository to follow along Python FastAPI Tutorial by Corey Schafer on YouTube -
 >
 > Extracted from YouTube description by @coreyMschafer
 
+## Video 3 - Python FastAPI Tutorial (Part 3): Path Parameters - Validation and Error Handling
+
+[Python FastAPI Tutorial (Part 3): Path Parameters - Validation and Error Handling](https://youtu.be/WRjXIA5pMtk?si=Fo4IW7jXqo-DdpGF)
+
+> In this Python FastAPI tutorial, we'll be learning how to use path parameters in FastAPI to create dynamic routes that can fetch specific resources from our data. We'll build both an API endpoint and a template page for viewing individual posts, add type validation with proper error handling using HTTPException, and create custom exception handlers that return JSON for API routes and styled HTML pages for browser routes. By the end, you'll have a solid understanding of how to work with path parameters, validate input automatically, and handle errors appropriately for different types of clients. Let's get started...
+
+> The code from this video can be found here:
+> https://github.com/CoreyMSchafer/FastAPI-03-Path-Parameters
+>
+> Extracted from YouTube description by @coreyMschafer
+
 # Useful commands:
 
 ```bash
