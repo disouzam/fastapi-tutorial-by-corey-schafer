@@ -1,1 +1,7 @@
 * text=auto
+
+*.py eol=lf
+*.html eol=lf
+
+*.py linguist-language=Python
+*.html linguist-language=HTML
