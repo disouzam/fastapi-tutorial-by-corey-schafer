@@ -5,5 +5,19 @@
     },
     "editor.formatOnSave": true,
     "editor.trimWhitespaceOnDelete": true,
-    "files.trimTrailingWhitespace": true
+    "files.trimTrailingWhitespace": true,
+    "files.exclude": {
+        "**/__marimo__": true,
+        "**/__pycache__": true,
+        "**/.ruff_cache": true,
+        "**/.DS_Store": true,
+        "**/.env": true,
+        "**/.git": true,
+        "**/.hg": true,
+        "**/.mypy_cache": true,
+        "**/.svn": true,
+        "**/.venv": true,
+        "**/Thumbs.db": true,
+        "config.share": true
+    }
 }
